@@ -1,0 +1,7 @@
+---
+title: "STATISTICAL PROGRAMMING PARADIGMS AND WORKFLOWS"
+editor_options: 
+  chunk_output_type: console
+---
+
+##  

@@ -1,0 +1,11 @@
+project:
+  title: "STATISTICAL PROGRAMMING PARADIGMS AND WORKFLOWS"
+code-overflow: wrap
+df-print: kable
+execute: 
+  echo: true
+  warning: false
+  message: false
+
+editor: visual
+
